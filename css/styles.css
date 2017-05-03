@@ -1,0 +1,45 @@
+#dogs, #cats, #turtles, #animals {
+  display: none;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+  font-weight: bolder;
+}
+
+h2 {
+  color: green;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+}
+
+body {
+  background-color: lightgreen;
+}
+
+.form-group {
+  text-align: left;
+  color: black;
+  background-color: teal;
+}
+
+p{
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+#dogs {
+  color: darkred;
+}
+
+#cats {
+  color: purple;
+}
+
+#turtles {
+  color: darkred;
+}
